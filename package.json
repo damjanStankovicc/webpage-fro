@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "semantic-ui-ember": "github:Semantic-Org/Semantic-UI-Ember"
+  }
+}
